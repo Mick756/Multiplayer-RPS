@@ -1,0 +1,9 @@
+body {
+    background-image: url("../images/Ocean.jpg");
+    font-family: 'Lacquer', sans-serif;
+}
+.titleBox {
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
